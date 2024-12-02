@@ -18,4 +18,4 @@ jobs:
 
       - name: Run Python script over SSH
         run: |
-          sshpass -p "T+(z3cW9Ak2g1Zg8(E" ssh -o StrictHostKeyChecking=no educated-gas-wes@mnz.domcloud.co 'cd public_html/python && python -u py5.py'
+          sshpass -p "T+(z3cW9Ak2g1Zg8(E" ssh -o StrictHostKeyChecking=no educated-gas-wes@mnz.domcloud.co 'cd public_html/python && python -u py6.py'
